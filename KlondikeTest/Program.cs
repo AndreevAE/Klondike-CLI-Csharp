@@ -137,6 +137,8 @@ namespace KlondikeTest
         {
             string input = Console.ReadLine().ToUpper();
 
+            Console.Clear();
+            
             if (input == "\n")
                 return;
 
